@@ -444,13 +444,10 @@ ul#nav li.current a { color: #F06000; }
    cursor: pointer;
 }
 
-.portfolio-item .item-wrapp a {
-   display: inline-block;
-   cursor: pointer;
-}
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
-   position: absolute;
+   position: relative;
    left: 0;
    top: 0;
    width: 100%;
