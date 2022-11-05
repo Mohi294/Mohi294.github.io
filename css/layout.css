@@ -431,7 +431,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
-   position: relative;
+   position: absolute;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -447,7 +447,7 @@ ul#nav li.current a { color: #F06000; }
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {
-   position: relative;
+   position: absolute;
    left: 0;
    top: 0;
    width: 100%;
