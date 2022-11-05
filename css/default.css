@@ -144,6 +144,8 @@ html {
 }
 
 body {
+   text-align: justify;
+   text-justify: inter-word;
    background: #fff;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
